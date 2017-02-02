@@ -18,7 +18,7 @@
 			<option value="right">Alinhar a direita</option>
 		</select>
 		<br>
-		Tamanho: <input type="number" name="size">
+		Tamanho em pixels: <input type="number" name="tamanho">
 		<br>
 		<label for="repeticao">Número de Repetições: </label><input type="number" name="repeticao" id="repeticao">
 		<br>
